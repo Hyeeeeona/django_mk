@@ -1,0 +1,3 @@
+#!/Users/hyeona/django_mk/venv_mk/bin/python3 -u
+from xonsh.main import main
+main()
